@@ -893,6 +893,14 @@ input, select, textarea {
 
 		}
 
+		
+
+	.contactAndIcon {
+		display: flex;
+		width: 100%;
+		gap: 2rem;
+	}
+
 /* Icons */
 
 	ul.icons {
